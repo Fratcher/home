@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Riley King. I am a Senior currently pursuing a Data Science Degree with a Minor in Mathematics. I'm most passionate about optimizing systems and shallow/deep learning. Some of my favorite things to work with in my free time are machine learning models, neural networks, APIs, and cloud hosting softwares.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "https://docs.google.com/document/d/1Ra7D_Bm0D2E7Q4JhhxhfIuGH14lge-e1/edit?usp=sharing&ouid=103581569189851047333&rtpof=true&sd=true",
 };
 
 // PROJECTS SECTION
